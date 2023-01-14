@@ -70,7 +70,7 @@ that match the Orchestrator version I use for deploying my projects.
 
 This project includes the following features:
 * Clean structure.
-* The UiPath packages that I regularly use and their 
+* Included the UiPath packages that I regularly use and their 
 versions match the Orchestrator version I use for 
 deploying my projects.
 
