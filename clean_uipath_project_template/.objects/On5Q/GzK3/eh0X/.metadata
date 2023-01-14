@@ -1,0 +1,12 @@
+﻿{
+  "Id": "eh0Xpp-nr0KljXvq0fODKg",
+  "Reference": "aSSQzGIZlUeWfOdT8u7OEA/eh0Xpp-nr0KljXvq0fODKg",
+  "ParentRef": "aSSQzGIZlUeWfOdT8u7OEA/GzK3BRmSE0SfiKobF08EMg",
+  "Name": "browser",
+  "Type": "Screen",
+  "Created": "2022-03-02T15:52:28.4552589Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-02T15:52:28.4552589Z"
+}

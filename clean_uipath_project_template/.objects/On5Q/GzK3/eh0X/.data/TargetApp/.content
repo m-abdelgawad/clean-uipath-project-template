@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="IE" ContentHash="Au7BmB1YgUqdVZ9mTwWdLg" Selector="&lt;html title='الجهاز القومى لتنظيم الإتصلات - مركز تلقى الشكاوى' /&gt;" Url="https://egntraweb.teleperformance.com.eg/NTRA%20Operator%20Panel/Main.aspx" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0OsW6YHZ44UOZ90f9eYqwbQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3505fb0f9d273d86e3db1b31bb310b0f.png" xmlns="">0pIq299bpMUqYPy76fvO8cg</imageRef>
+</TargetApp>

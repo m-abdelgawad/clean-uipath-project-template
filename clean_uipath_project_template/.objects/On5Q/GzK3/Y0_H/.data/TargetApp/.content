@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="js9xr8fFPkmNkV_VGONMSQ" FilePath="C:\Windows\explorer.exe" Selector="&lt;wnd app='explorer.exe' cls='Shell_TrayWnd' idx='*' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0RgnPXfH9aUKanlFomz_lYA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="18775154437fbaf600c2c7f9eca75298.png" xmlns="">0I4gsbuNf9Eqdm1REImyvaA</imageRef>
+</TargetApp>

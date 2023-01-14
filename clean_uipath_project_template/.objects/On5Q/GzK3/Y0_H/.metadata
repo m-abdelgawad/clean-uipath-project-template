@@ -1,0 +1,12 @@
+﻿{
+  "Id": "Y0_H7nrOa0-rwypenP5-Zg",
+  "Reference": "aSSQzGIZlUeWfOdT8u7OEA/Y0_H7nrOa0-rwypenP5-Zg",
+  "ParentRef": "aSSQzGIZlUeWfOdT8u7OEA/GzK3BRmSE0SfiKobF08EMg",
+  "Name": "explorer.exe",
+  "Type": "Screen",
+  "Created": "2022-03-02T15:52:28.6480267Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-02T15:52:28.6480267Z"
+}
