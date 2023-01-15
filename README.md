@@ -62,7 +62,7 @@
 * Organization Department: Technology
 
 ### Description
-I created this clean structure for my UiPath projects. 
+A UiPath project that has a clean structure to serve as my base template for future projects.
 I pre-included the packages that I use, such as 
 UiPath.Python.Activities and UiPath.WebAPI.Activities. 
 I also added these packages with the same version numbers 
